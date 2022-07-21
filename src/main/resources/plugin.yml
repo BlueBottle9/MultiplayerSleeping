@@ -1,0 +1,4 @@
+name: MultiplayerSleeping
+version: 0.0.1
+main: bluescreen9.minecraft.bukkit.multiplayersleeping.Main
+api-version: 1.19

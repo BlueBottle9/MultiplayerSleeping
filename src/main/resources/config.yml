@@ -1,0 +1,6 @@
+night-skip-speed: 150
+bar-color: 'GREEN'
+bar-style: 'SOLID'
+bar-title: '&a睡觉中的玩家: &e<%sleeping>/<%total>'
+
+default-language: 'zh_cn'
